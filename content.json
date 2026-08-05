@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "contentVersion": 1,
-  "publishedAt": "2026-08-02T00:00:00Z",
+  "contentVersion": 2,
+  "publishedAt": "2026-08-05T20:58:31.332Z",
   "title": "طھط­ظ„ظٹظ„ ظ…طµط±ظˆظپط§طھ ط§ظ„ظپط±ظˆط¹",
   "announcement": "",
   "siteContent": {
@@ -10,7 +10,7 @@
   },
   "app": {
     "enabled": true,
-    "url": "https://premieros.github.io/branch-expenses/",
+    "url": "https://premieros.github.io/Premier/#/warehouses",
     "appVersion": "1.1.0",
     "updateMessage": ""
   }
