@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "contentVersion": 1,
+  "publishedAt": "2026-08-02T00:00:00Z",
+  "title": "طھط­ظ„ظٹظ„ ظ…طµط±ظˆظپط§طھ ط§ظ„ظپط±ظˆط¹",
+  "announcement": "",
+  "siteContent": {
+    "slogan": "",
+    "custom": {}
+  },
+  "app": {
+    "enabled": true,
+    "url": "https://premieros.github.io/branch-expenses/",
+    "appVersion": "1.1.0",
+    "updateMessage": ""
+  }
+}
